@@ -1,0 +1,30 @@
+
+    
+
+body {
+    text-align: center;    
+}
+
+.main-container{
+    height: 21rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height: 20rem;
+    width : 40%;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(156, 153, 153);
+
+}
+
+span{
+    display: block;
+}
+
+input{
+    margin: 10px 0;
+}
